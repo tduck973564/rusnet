@@ -6,7 +6,7 @@ license = "GPL-3.0"
 description = "An extremely basic network protocol."
 documentation = "https://docs.rs/rusnet"
 repository = "https://github.com/tduck973564/rusnet"
-readme = "../README.md"
+readme = "README.md"
 keywords = ["network", "network-protocol", "protocol", "tcp"]
 categories = ["network-programming"]
 
